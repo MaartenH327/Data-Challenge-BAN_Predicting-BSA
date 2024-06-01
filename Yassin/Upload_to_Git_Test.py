@@ -2,7 +2,7 @@ from github import Github
 import os
 
 # Define your GitHub personal access token
-access_token = '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'
+access_token = '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'
 
 # Create a GitHub instance using the access token
 g = Github(access_token)
